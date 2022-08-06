@@ -41,7 +41,7 @@ const chekPrime = (item) => {
       return false;
     }
   } else {
-    return "parameters must be integer";
+    return "parameters must be number";
   }
 };
 

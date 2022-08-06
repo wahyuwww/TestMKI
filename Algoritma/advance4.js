@@ -19,7 +19,7 @@ const getGoes = (item, step) => {
     }
     return result;
   } else {
-    return "parameters must be integer";
+    return "parameters must be number";
   }
 };
 
